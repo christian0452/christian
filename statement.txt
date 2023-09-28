@@ -1,0 +1,2 @@
+Your new balance is 100000
+withdrawal of 2000 was succesful.

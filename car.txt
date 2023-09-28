@@ -1,0 +1,10 @@
+#multiple variables to multiple values
+#a,b,c='1','2','3'
+print(a,b,c)
+print(a)
+#casting
+number=3
+print(type(number))
+res=str(number)
+num=float(number)
+print(num,'\t',res)
